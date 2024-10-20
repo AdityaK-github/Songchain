@@ -30,7 +30,6 @@
    ```bash
    npm install
 
-
 1. **Compile Smart Contracts:**:
    ```bash
    npx hardhat compile
