@@ -22,19 +22,27 @@
    ```bash
    git clone https://github.com/AdityaK-github/Songchain.git
 
-1. **Navigate to the Project Directory**:
+2. **Navigate to the Project Directory**:
    ```bash
    cd Songchain  
 
-1. **Install Dependencies:**:
+3. **Install Dependencies:**:
    ```bash
    npm install
 
-1. **Compile Smart Contracts:**:
+4. **Compile Smart Contracts:**:
    ```bash
    npx hardhat compile
 
-1. **Run the Development Server**:
+5. **Run the local blockchain:**:
+   ```bash
+   npx hardhat node
+
+6. **Deploy the contract to the blockchain:**:
+   ```bash
+   npx npx hardhat run scripts/deploy.js --network localhost
+
+8. **Run the Development Server**:
    ```bash
    cd songchain-frontend
    npm run dev
