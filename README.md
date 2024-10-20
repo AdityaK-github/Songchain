@@ -26,19 +26,19 @@
    ```bash
    cd Songchain  
 
-3. **Install Dependencies:**:
+3. **Install Dependencies**:
    ```bash
    npm install
 
-4. **Compile Smart Contracts:**:
+4. **Compile Smart Contracts**:
    ```bash
    npx hardhat compile
 
-5. **Run the local blockchain:**:
+5. **Run the local blockchain**:
    ```bash
    npx hardhat node
 
-6. **Deploy the contract to the blockchain:**:
+6. **Deploy the contract to the blockchain**:
    ```bash
    npx npx hardhat run scripts/deploy.js --network localhost
 
