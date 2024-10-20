@@ -41,13 +41,10 @@
    npm run dev
 
 ## Usage
-- **Minting NFTs:
 
-Upload your song files (audio) and metadata (e.g., title, artist name) via the platform's UI.
-Mint and deploy the song as an NFT on the blockchain.
-Purchasing NFTs:
+1. **Minting NFTs**: Upload your song files (audio) and metadata (e.g., title, artist name) via the platform's UI. Mint and deploy the song as an NFT on the blockchain.
 
-- **Explore the marketplace and purchase song NFTs using your web3 wallet.
-Viewing NFT Collection:
+2. **Purchasing NFTs**: Explore the marketplace and purchase song NFTs using your web3 wallet.
 
-Fans and artists can view their owned song NFTs via their profile.
+3. **Viewing NFT Collection**: Fans and artists can view their owned song NFTs via their profile.
+
