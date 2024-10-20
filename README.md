@@ -37,16 +37,17 @@
 
 1. **Run the Development Server**:
    ```bash
+   cd songchain-frontend
    npm run dev
 
-Usage
-Minting NFTs:
+## Usage
+- **Minting NFTs:
 
 Upload your song files (audio) and metadata (e.g., title, artist name) via the platform's UI.
 Mint and deploy the song as an NFT on the blockchain.
 Purchasing NFTs:
 
-Explore the marketplace and purchase song NFTs using your web3 wallet.
+- **Explore the marketplace and purchase song NFTs using your web3 wallet.
 Viewing NFT Collection:
 
 Fans and artists can view their owned song NFTs via their profile.
